@@ -7,7 +7,7 @@ Marzo 2019
 _**Beautiful Soup** 
 pip install bs4                                                                    
 **Mechanize**
-pip instal mechaniz_
+pip install mechanize_
 
 ## Ejecutar
 _python programa_inicial.py_

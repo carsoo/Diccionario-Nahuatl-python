@@ -3,6 +3,7 @@ Programa en python para traducir palabras de español a lengua mexicana Nahuatl.
 Marzo 2019
 
 ## Requerimientos
+_**Python 2.7**_
 
 _**Beautiful Soup** 
 pip install bs4                                                                    

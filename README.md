@@ -1,5 +1,5 @@
 # Diccionario-Nahuatl-python
-Programa en python para traducir palabras de español a lengua mexicana Nahuatl. 
+Programa en Python para Traducir Palabras de Español a Lengua Mexicana Nahuatl
 Marzo 2019
 
 ## Requerimientos

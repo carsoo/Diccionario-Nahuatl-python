@@ -1,7 +1,7 @@
 # Diccionario-Nahuatl-python
 Programa en python para traducir palabras de español a lengua mexicana Nahuatl. 
 
-Requirements
+## Requerimientos
 
 *Beautiful Soup 
   pip install bs4

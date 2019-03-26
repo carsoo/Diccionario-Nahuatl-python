@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import mechanize
 from conectar_webapp import conectarWebApp
 
 print("--"*24)

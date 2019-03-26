@@ -9,4 +9,7 @@ pip install bs4
 **Mechanize**
 pip instal mechaniz_
 
+## Ejecutar
+_python programa_inicial.py_
+
 Disfrútalo

@@ -6,3 +6,5 @@ Python > 2.7
 Requerimientos 
 * Beautiful Soup 
 * Mechanize
+
+Disfrútalo
